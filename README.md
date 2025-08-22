@@ -257,5 +257,3 @@ This project is open source and available under the MIT License.
 - Streamlit for the interactive web framework
 
 ---
-
-**Happy Image Segmentation! 🎉**
