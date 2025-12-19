@@ -6,7 +6,6 @@ A comprehensive Python project demonstrating various image segmentation techniqu
 
 - **Multiple Segmentation Methods**: 7 different segmentation algorithms
 - **Interactive Web Interface**: Streamlit-based web application
-- **Real-time Camera Segmentation**: Live camera feed with segmentation
 - **Command Line Interface**: Easy-to-use CLI for batch processing
 - **Comprehensive Examples**: Ready-to-run demonstration scripts
 - **Cross-platform**: Works on Windows, macOS, and Linux
